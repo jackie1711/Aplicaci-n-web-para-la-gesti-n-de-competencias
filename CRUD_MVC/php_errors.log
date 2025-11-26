@@ -4639,3 +4639,58 @@ Stack trace:
 [26-Nov-2025 07:57:35 Europe/Berlin] === REQUEST ===
 [26-Nov-2025 07:57:35 Europe/Berlin] Controller: auth
 [26-Nov-2025 07:57:35 Europe/Berlin] Action: mostrarLogin
+[26-Nov-2025 22:52:15 Europe/Berlin] === REQUEST ===
+[26-Nov-2025 22:52:15 Europe/Berlin] Controller: auth
+[26-Nov-2025 22:52:15 Europe/Berlin] Action: mostrarLogin
+[26-Nov-2025 22:52:24 Europe/Berlin] === REQUEST ===
+[26-Nov-2025 22:52:24 Europe/Berlin] Controller: auth
+[26-Nov-2025 22:52:24 Europe/Berlin] Action: login
+[26-Nov-2025 22:52:24 Europe/Berlin] === INTENTO DE LOGIN ===
+[26-Nov-2025 22:52:24 Europe/Berlin] Correo recibido: ibaez@upemor.edu.mx
+[26-Nov-2025 22:52:24 Europe/Berlin] Longitud contraseña: 8
+[26-Nov-2025 22:52:24 Europe/Berlin] Usuario encontrado: Irma Yazmín
+[26-Nov-2025 22:52:24 Europe/Berlin] Tipo: Administrador
+[26-Nov-2025 22:52:24 Europe/Berlin] Hash en BD: $2y$10$.AcnfopQep3Ce...
+[26-Nov-2025 22:52:24 Europe/Berlin] ✓ Contraseña verificada correctamente
+[26-Nov-2025 22:52:24 Europe/Berlin] Sesión establecida. ID: 1
+[26-Nov-2025 22:52:24 Europe/Berlin] Redirigiendo a: Administrador
+[26-Nov-2025 22:52:24 Europe/Berlin] === REDIRIGIENDO ===
+[26-Nov-2025 22:52:24 Europe/Berlin] Tipo recibido: Administrador
+[26-Nov-2025 22:52:24 Europe/Berlin] → Redirigiendo a panel administrativo
+[26-Nov-2025 22:52:24 Europe/Berlin] === REQUEST ===
+[26-Nov-2025 22:52:24 Europe/Berlin] Controller: auth
+[26-Nov-2025 22:52:24 Europe/Berlin] Action: panelAdministrativo
+[26-Nov-2025 22:52:24 Europe/Berlin] === ACCEDIENDO A PANEL ADMINISTRATIVO ===
+[26-Nov-2025 22:52:24 Europe/Berlin] Sesión usuario_id: 1
+[26-Nov-2025 22:52:24 Europe/Berlin] Sesión tipo_usuario: Administrador
+[26-Nov-2025 22:52:24 Europe/Berlin] ✓ Acceso permitido - Cargando vista
+[26-Nov-2025 22:52:27 Europe/Berlin] === REQUEST ===
+[26-Nov-2025 22:52:27 Europe/Berlin] Controller: asignacion
+[26-Nov-2025 22:52:27 Europe/Berlin] Action: listar
+[26-Nov-2025 22:52:29 Europe/Berlin] === REQUEST ===
+[26-Nov-2025 22:52:29 Europe/Berlin] Controller: auth
+[26-Nov-2025 22:52:29 Europe/Berlin] Action: panelAdministrativo
+[26-Nov-2025 22:52:29 Europe/Berlin] === ACCEDIENDO A PANEL ADMINISTRATIVO ===
+[26-Nov-2025 22:52:29 Europe/Berlin] Sesión usuario_id: 1
+[26-Nov-2025 22:52:29 Europe/Berlin] Sesión tipo_usuario: Administrador
+[26-Nov-2025 22:52:29 Europe/Berlin] ✓ Acceso permitido - Cargando vista
+[26-Nov-2025 22:52:30 Europe/Berlin] === REQUEST ===
+[26-Nov-2025 22:52:30 Europe/Berlin] Controller: docente
+[26-Nov-2025 22:52:30 Europe/Berlin] Action: gestionarDocentes
+[26-Nov-2025 22:52:33 Europe/Berlin] === REQUEST ===
+[26-Nov-2025 22:52:33 Europe/Berlin] Controller: auth
+[26-Nov-2025 22:52:33 Europe/Berlin] Action: panelAdministrativo
+[26-Nov-2025 22:52:33 Europe/Berlin] === ACCEDIENDO A PANEL ADMINISTRATIVO ===
+[26-Nov-2025 22:52:33 Europe/Berlin] Sesión usuario_id: 1
+[26-Nov-2025 22:52:33 Europe/Berlin] Sesión tipo_usuario: Administrador
+[26-Nov-2025 22:52:33 Europe/Berlin] ✓ Acceso permitido - Cargando vista
+[26-Nov-2025 22:52:35 Europe/Berlin] === REQUEST ===
+[26-Nov-2025 22:52:35 Europe/Berlin] Controller: estudiante
+[26-Nov-2025 22:52:35 Europe/Berlin] Action: gestionarEstudiantes
+[26-Nov-2025 22:52:37 Europe/Berlin] === REQUEST ===
+[26-Nov-2025 22:52:37 Europe/Berlin] Controller: auth
+[26-Nov-2025 22:52:37 Europe/Berlin] Action: panelAdministrativo
+[26-Nov-2025 22:52:37 Europe/Berlin] === ACCEDIENDO A PANEL ADMINISTRATIVO ===
+[26-Nov-2025 22:52:37 Europe/Berlin] Sesión usuario_id: 1
+[26-Nov-2025 22:52:37 Europe/Berlin] Sesión tipo_usuario: Administrador
+[26-Nov-2025 22:52:37 Europe/Berlin] ✓ Acceso permitido - Cargando vista
